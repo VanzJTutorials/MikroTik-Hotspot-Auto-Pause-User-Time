@@ -6,7 +6,8 @@ Instruction on how to use:
 1) View the upload image.
 2) Setup the Idle Timeout as required in your setup. (ex. 00:02:00 = 2 minutes)
 3) Setup the Keepalive Timeout as required in your setup. (ex. 00:02:00 = 2 minutes)
-4) Test by connecting to your hotspot and wait until the timeouts will effect.
+4) Test by connecting to your hotspot and then turn off your wifi connection without pressing the logout button.
+5) Wait until the timeouts will effect.
 
 
 ~ Vanz J Tutorials
