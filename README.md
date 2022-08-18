@@ -10,3 +10,6 @@ Instruction on how to use:
 
 
 ~ Vanz J Tutorials
+  * https://www.youtube.com/c/VanzJTutorials
+  * https://www.facebook.com/VanZJOfficial
+  * https://www.facebook.com/groups/507708529922820/
