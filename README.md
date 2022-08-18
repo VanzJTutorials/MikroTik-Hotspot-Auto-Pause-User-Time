@@ -17,3 +17,7 @@ This will help to setup auto pause/disconnection of user active in MikroTik Rout
 
 ## Community Group
   * https://www.facebook.com/groups/507708529922820/
+
+## Donation and Support
+  * https://www.paypal.com/paypalme/jovaniejopia
+  * gcash: 09063218032
