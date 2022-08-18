@@ -9,7 +9,7 @@ Instruction on how to use:
 4) Test by connecting to your hotspot and then turn off your wifi connection without pressing the logout button.
 5) Wait until the timeouts will effect.
 
-
+# Community Group
 ~ Vanz J Tutorials
   * https://www.youtube.com/c/VanzJTutorials
   * https://www.facebook.com/VanZJOfficial
