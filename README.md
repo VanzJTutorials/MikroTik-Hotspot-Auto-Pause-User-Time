@@ -20,4 +20,4 @@ This will help to setup auto pause/disconnection of user active in MikroTik Rout
 
 ## Donation and Support
   * https://www.paypal.com/paypalme/jovaniejopia
-  * gcash: 09063218032
+  * gcash: 09229818517
