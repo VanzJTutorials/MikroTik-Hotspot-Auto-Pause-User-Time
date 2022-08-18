@@ -13,7 +13,7 @@ This will help to setup auto pause/disconnection of user active in MikroTik Rout
 ## Website
   * https://www.youtube.com/c/VanzJTutorials
   * https://www.facebook.com/VanZJOfficial
-  * tiktok.com/@vanzjtutorials
+  * https://www.tiktok.com/@vanzjtutorials
 
 ## Community Group
   * https://www.facebook.com/groups/507708529922820/
